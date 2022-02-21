@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# CLIENT GITHUB PROJECT
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+List the github commits of a project.
 
 ## Available Scripts
 
@@ -15,6 +16,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 You need to create an .env file and put REACT_APP_API_URL=https://alangit.herokuapp.com
+You will place it in the root of your project.
 
 ### `npm test`
 
