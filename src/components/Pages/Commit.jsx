@@ -19,8 +19,6 @@ const Commit = () => {
     if (!scope.loader) return;
     get(`/alancitusgs`, header(), function (code, response) {
       if (code === 200) {
-
-        console.log(response.datos)
         setScope({
           ...scope,
           data: response.datos,
