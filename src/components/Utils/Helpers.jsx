@@ -1,7 +1,6 @@
 import React from "react";
 import Axios from "axios";
 import { STATUS422_FAIL_ERROR_MESSAGE } from "./Constants";
-import "react-toastify/dist/ReactToastify.css";
 import moment from "moment";
 import "moment/locale/es";
 
